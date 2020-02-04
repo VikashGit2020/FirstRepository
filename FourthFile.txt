@@ -1,1 +1,2 @@
-FourthFile: This is the 1st statement @10:53AM/0402
+FourthFile: This is the 1st statement @10:53AM/0402 -- message added in branch1_2
+FourthFile: This is the 2nd statement @6:02PM/0402 -- message added in branch1_2
